@@ -1,3 +1,1 @@
 Esto esta en el archivo 1 ejemplo rama DEVELOP
-
-Gir reverse ejemplo-2, NO es reset
