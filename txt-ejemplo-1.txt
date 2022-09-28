@@ -1,1 +1,2 @@
 Esto esta en el archivo 1 ejemplo rama DEVELOP
+Esto es una comparacion lectura
