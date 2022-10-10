@@ -1,0 +1,1 @@
+Git stash de ejemplo en el archivo txt-ejemplo main.
