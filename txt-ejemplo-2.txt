@@ -1,3 +1,5 @@
 Esto esta(repetido) en el archivo 2 ejemplo rama DEVELOP
 
 Haciendo un REVERT-1, NO es reset Esto es una comparacion lectura. En archivo 2
+
+Esto es una lectura de stash.
